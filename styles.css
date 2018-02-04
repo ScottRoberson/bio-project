@@ -88,10 +88,10 @@ p{
 }*/
 .stadium {
 	margin-top: 50px;
-	/*display: flex;*/
-	/*flex-direction: row;*/
-	/*flex-wrap: wrap;*/
-	background-color: DodgerBlue;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	
 
 }
 
