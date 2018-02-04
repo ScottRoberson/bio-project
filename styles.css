@@ -5,10 +5,97 @@ body{
 	 line-height: 1.5;
 	 padding: 4em 1em;
 	 color: #555;
+	 
+
 }
+
+li{
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.Wrigley {
+	background-repeat: no-repeat;
+	background-size: auto;
+
+}
+
+.About Me p{
+	padding: 10px;
+	margin-bottom: 10px;
+}
+.nav-bar{
+		background-color: #0033cc;
+	 	color: white;
+	
+}
+
+h2{
+	text-align: center;
+	padding-top: 10px;
+}
+.nav-bar li  {
+	display: inline;
+	margin: 0;
+	color: white;
+	padding: 0 20px 0 20px;
+	text-align: center;
+
+}
+.nav-bar  a {
+	color:white;
+	text-decoration: none;
+	font-size: 16px;
+	text-transform: uppercase;
+	font-family: 'Vollkorn SC', serif;
+	font-size: 25px;
+}
+
+a:hover {
+	color: #0066ff;
+
+}
+
+
+.about_main {
+	padding-right: 20px; 
+ }
+.hobbies {
+	padding:20px 20px 0 0;
+	margin-top: 20px;
+
+
+}
+.hobbies img {
+	float:right;
+	margin-top: -20px;
+
+}
+}
+
 div {float:right;
 
 }
+
+
 p{
 	font-size: 20px;
+}
+/*header{
+	background image: url("Hakko Ryu Mon (1).gif");
+	background-repeat: no-repeat;
+	background-size: cover;
+}*/
+.stadium {
+	margin-top: 50px;
+	/*display: flex;*/
+	/*flex-direction: row;*/
+	/*flex-wrap: wrap;*/
+	background-color: DodgerBlue;
+
+}
+
+.MLB img {
+	width: 240px;
+	height: auto;
 }
