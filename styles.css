@@ -4,9 +4,7 @@ body{
 	 font-family: "helvetica","arial",sans-serif;
 	 line-height: 1.5;
 	 padding: 4em 1em;
-	 color: #555;
-	 
-
+	 color: #555; 
 }
 
 li{
@@ -14,12 +12,14 @@ li{
     margin: 0;
     padding: 0;
 }
-.Wrigley {
+
+.Wrigley img {
 	background-repeat: no-repeat;
-	background-size: auto;
+	/*background-size: auto;*/
+	width: 100%;
+	
 
 }
-
 
 .nav-bar{
 		background-color: #0033cc;
@@ -60,18 +60,19 @@ a:hover {
 
 .hakko {
 	float:right;
-	width:20%;
+	width:150px;
+	height: 200px;
 }
 
-
-p {
-	font-size: 20px;
-}
 
  
 .parks {
 	display: flex;
 	flex-wrap: wrap;
+	/*background-color: #e6ebef;*/
+	font-family: 'Vollkorn SC', serif;
+	/*color: white;*/
+	text-align: center;
   	
 }
 
